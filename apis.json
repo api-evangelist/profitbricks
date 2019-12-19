@@ -1,0 +1,62 @@
+{
+    "name": "ProfitBricks",
+    "description": "<p>ProfitBricks - Cloud Computing 2.0 - is the cloud infrastructure-as-a-service (IaaS) company offering more speed and flexibility than any other cloud provider. Founded in 2010 by the previous co-founders of 1&amp;1 Internet, ProfitBricks has built the world&#8217;s first, true virtual datacenter, enabling users custom defined instances with live vertical scaling and class-leading double redundant cloud storage ??? all with simple and transparent minute-based billing. <\/p>\n\n<p>It also developed the first graphical Data Center Designer that makes the ProfitBricks Cloud Computing service the easiest to setup and maintain. Headquartered in Berlin, Germany and Boston, Mass., ProfitBricks can be found online at http:\/\/www.ProfitBricks.com.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1464_logo.jpg",
+    "tags": [
+        "backups",
+        "cloud",
+        "have api",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/profitbricks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ProfitBricks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1464_logo.jpg",
+            "humanURL": "http:\/\/www.profitbricks.co.uk\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/profitbricks-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/profitbricks-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.profitbricks.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/profitbricks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/profitbricks"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/profitbricks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ProfitBricksUSA"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.profitbricks.co.uk\/"
+        }
+    ]
+}
